@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p dir="rtl">
+  גם עברית עובדת, מימין לשמאל אם תרצו.
+  </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/il/RonnyOrbach/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-RonnyOrbach-blue?style=flat-square&logo=linkedin"></a>
