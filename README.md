@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://www.linkedin.com/il/RonnyOrbach/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-RonnyOrbach-blue?style=flat-square&logo=linkedin"></a>
-</p>
-
+  
 ![](https://komarev.com/ghpvc/?username=RonnyO)
+</p>
