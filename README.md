@@ -20,7 +20,9 @@ Here are some ideas to get you started:
   </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/il/RonnyOrbach/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-RonnyOrbach-blue?style=flat-square&logo=linkedin"></a>
-  
+  <a href="https://www.linkedin.com/il/RonnyOrbach/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-RonnyOrbach-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.twitter.com/RonnyOrbach"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-RonnyO-blue?style=flat-square&logo=twitter"></a>
+  <a href="https://www.facebook.com/RonnyO"><img alt="LinkedIn" src="https://img.shields.io/badge/Facebook-RonnyOrbach-blue?style=flat-square&logo=facebook"></a>
+
 ![](https://komarev.com/ghpvc/?username=RonnyO)
 </p>
